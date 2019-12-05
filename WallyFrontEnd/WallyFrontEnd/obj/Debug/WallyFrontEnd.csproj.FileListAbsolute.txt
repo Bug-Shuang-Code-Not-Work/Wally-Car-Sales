@@ -1,0 +1,11 @@
+C:\Users\Shuang Liang\Desktop\WallyFrontEnd\WallyFrontEnd\bin\Debug\WallyFrontEnd.exe.config
+C:\Users\Shuang Liang\Desktop\WallyFrontEnd\WallyFrontEnd\bin\Debug\WallyFrontEnd.exe
+C:\Users\Shuang Liang\Desktop\WallyFrontEnd\WallyFrontEnd\bin\Debug\WallyFrontEnd.pdb
+C:\Users\Shuang Liang\Desktop\WallyFrontEnd\WallyFrontEnd\bin\Debug\MySql.Data.dll
+C:\Users\Shuang Liang\Desktop\WallyFrontEnd\WallyFrontEnd\bin\Debug\Google.Protobuf.dll
+C:\Users\Shuang Liang\Desktop\WallyFrontEnd\WallyFrontEnd\bin\Debug\MySql.Data.xml
+C:\Users\Shuang Liang\Desktop\WallyFrontEnd\WallyFrontEnd\obj\Debug\WallyFrontEnd.csproj.CoreCompileInputs.cache
+C:\Users\Shuang Liang\Desktop\WallyFrontEnd\WallyFrontEnd\obj\Debug\WallyFrontEnd.csproj.CopyComplete
+C:\Users\Shuang Liang\Desktop\WallyFrontEnd\WallyFrontEnd\obj\Debug\WallyFrontEnd.exe
+C:\Users\Shuang Liang\Desktop\WallyFrontEnd\WallyFrontEnd\obj\Debug\WallyFrontEnd.pdb
+C:\Users\Shuang Liang\Desktop\WallyFrontEnd\WallyFrontEnd\obj\Debug\WallyFrontEnd.csprojAssemblyReference.cache
